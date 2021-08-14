@@ -9,8 +9,8 @@
   </parent>
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>dev</groupId>
-	<artifactId>ops</artifactId>
+	<groupId>npro</groupId>
+	<artifactId>ram</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>The name of my project</name>
 	<url>http://maven.apache.org</url>

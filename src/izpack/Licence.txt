@@ -1,4 +1,4 @@
-    The program ops was made using the INGENIAS Agent Framework which 
+    The program ram was made using the INGENIAS Agent Framework which 
     is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
@@ -10,7 +10,7 @@
     GNU General Public License for more details.
 
     Being a derivative work of the INGENIAS Agent Framework, which is distributed
-    under the GPLv3, ops is subject to the same terms. These terms are listed below.
+    under the GPLv3, ram is subject to the same terms. These terms are listed below.
 
 
                    GNU GENERAL PUBLIC LICENSE

@@ -7,7 +7,7 @@
         The meaning of the tags should be natural ...
     -->
     <info>
-        <appname>ops-installer</appname>
+        <appname>ram-installer</appname>
         <appversion>1.0-SNAPSHOT</appversion>
         <authors>
             <author name="WRITE HERE YOUR NAME" email="YOUREMAIL@EMAIL"/>
@@ -62,10 +62,10 @@
     -->
     <packs>
         <pack name="Core" required="yes">
-            <description>Essential files of ops</description>
+            <description>Essential files of ram</description>
             <file src="Readme.txt" targetdir="$INSTALL_PATH"/>
             <file src="Licence.txt" targetdir="$INSTALL_PATH"/>
-            <file src="../ops-1.0-SNAPSHOT-selfcontained.jar" targetdir="$INSTALL_PATH"/>
+            <file src="../ram-1.0-SNAPSHOT-selfcontained.jar" targetdir="$INSTALL_PATH"/>
             <!-- The file will be parsed -->
         </pack>
     </packs>
